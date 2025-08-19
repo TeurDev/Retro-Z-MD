@@ -31,3 +31,12 @@ A console-based survival mini-game written in **C**, where the player moves thro
 ### 🔧 Main Technologies
 - **Language:** C  
 - **Environment:** Console / Command Line / .EXE
+
+<h2 align="center" style="margin-top: 20px;">
+  <a href="[https://tu-web-o-apk.com](https://github.com/TeurDev/Retro-Z-MD/releases/tag/1.0)" 
+     style="background-color: #0078D7; color: white; padding: 12px 24px; 
+            text-decoration: none; font-weight: bold; border-radius: 8px;
+            font-family: sans-serif; display: inline-block;"> 
+    Download
+  </a>
+</h2>

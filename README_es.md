@@ -30,4 +30,15 @@ Minijuego de supervivencia en consola escrito en **C**, donde el jugador se muev
 
 ### 🔧 Tecnologías Principales
 - **Lenguaje:** C  
-- **Entorno:** Consola / Línea de Comandos  
+- **Entorno:** Consola / Línea de Comandos
+
+  
+<h2 align="center" style="margin-top: 20px;">
+  <a href="<h2 align="center" style="margin-top: 20px;">
+  <a href="https://github.com/TeurDev/Retro-Z-MD/releases/tag/1.0" 
+     style="background-color: #0078D7; color: white; padding: 12px 24px; 
+            text-decoration: none; font-weight: bold; border-radius: 8px;
+            font-family: sans-serif; display: inline-block;"> 
+    Descargar el juego
+  </a>
+</h2>
